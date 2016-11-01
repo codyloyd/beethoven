@@ -1,7 +1,6 @@
 body {
-  background: url('./striped_lens.png')
+  background: url('./lightpaperfibers.png')
 }
-
 
 .but-why {
   font-size: 6em;
@@ -20,5 +19,9 @@ body {
 }
 
 .well {
+  margin-top: 25px;
+}
+
+img {
   margin-top: 25px;
 }
