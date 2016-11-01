@@ -1,0 +1,14 @@
+body {
+  background: url('./striped_lens.png')
+}
+
+
+.but-why {
+  font-size: 6em;
+  margin-top: 160px;
+}
+
+.intro {
+  margin-top: 50px;
+  text-align: center;
+}
